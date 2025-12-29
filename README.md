@@ -1,1 +1,3 @@
-This repo will be used as a template for projects that use React, TypeScript, Tailwind CSS & shadcn
+# Introduction
+
+This project is template for creating projects involving React + TS + Tailwind + shadcn

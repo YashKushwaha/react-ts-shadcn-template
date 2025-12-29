@@ -1,0 +1,1 @@
+This repo will be used as a template for projects that use React, TypeScript, Tailwind CSS & shadcn
